@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  ramya:
-    image: ramya
-    build:
-      context: .
-      dockerfile: ./Dockerfile
